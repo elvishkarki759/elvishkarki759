@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elvishkarki759
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Web designing and development
+- 👀 I’m interested in Cloud Securiyt
+- 🌱 I’m currently learning Information Systems Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me elviskarki759@gmail.com
 
